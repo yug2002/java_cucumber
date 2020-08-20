@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9281c31c-f657-449e-8dfa-321a21499503" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../docs/gtat_2018q1__yury_hamaniuk/h13" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -255,6 +255,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="231" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591642723160" />
+    <state x="540" y="254" key="IDE.errors.dialog" timestamp="1597943344736">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="254" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597943344736" />
     <state x="490" y="174" key="Maven.ArtifactSearchDialog" timestamp="1591630293842">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
