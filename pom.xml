@@ -25,6 +25,11 @@
                 <configuration>
                     <parallel>methods</parallel>
                     <useUnlimitedThreads>true</useUnlimitedThreads>
+                    <includes>
+                        <exclude>
+                            **/CucumberTest.java
+                        </exclude>
+                    </includes>
                 </configuration>
             </plugin>
         </plugins>

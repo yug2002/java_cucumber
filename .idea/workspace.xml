@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9281c31c-f657-449e-8dfa-321a21499503" name="Default Changelist" comment="" />
+    <list default="true" id="9281c31c-f657-449e-8dfa-321a21499503" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cucumber/junit/elements/Element.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cucumber/junit/elements/Element.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +25,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -35,6 +42,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ckx6SLWmZn7MBD4SJqaYuJqu9I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,6 +50,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../docs/gtat_2018q1__yury_hamaniuk/h13" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
@@ -51,7 +60,7 @@
       <recent name="com.cucumber.junit.steps" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Feature: Announces">
+  <component name="RunManager" selected="JUnit.com.cucumber.junit.runner in cucumber-junit">
     <configuration name="Feature: Announces" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/com/cucumber/junit/features/Announces.feature" />
@@ -109,7 +118,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CucumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="com.cucumber.junit.runner in cucumber-junit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="cucumber-junit" />
       <extension name="coverage">
         <pattern>
@@ -118,34 +127,32 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.cucumber.junit.runner" />
-      <option name="MAIN_CLASS_NAME" value="com.cucumber.junit.runner.CucumberTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CucumberTestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="com.cucumber.junit.steps in cucumber-junit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="cucumber-junit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cucumber.junit.runner.*" />
+          <option name="PATTERN" value="com.cucumber.junit.steps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cucumber.junit.runner" />
-      <option name="MAIN_CLASS_NAME" value="com.cucumber.junit.runner.CucumberTestRunner" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="com.cucumber.junit.steps" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.com.cucumber.junit.runner in cucumber-junit" />
+        <item itemvalue="JUnit.com.cucumber.junit.steps in cucumber-junit" />
         <item itemvalue="Cucumber Java.Feature: Announces" />
         <item itemvalue="Cucumber Java.Feature: MenySections" />
         <item itemvalue="Cucumber Java.Feature: Docs" />
-        <item itemvalue="JUnit.CucumberTest" />
-        <item itemvalue="JUnit.CucumberTestRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -204,26 +211,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1279" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1591609615976" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1591366742429">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1597923596292">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591366742429" />
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1593797761007">
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1597923596292" />
+    <state x="824" y="417" key="Github.ShareDialog" timestamp="1597921780108">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593797761007" />
-    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1593797761007">
+    <state x="824" y="417" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1597921780108" />
+    <state width="938" height="279" key="GridCell.Tab.0.bottom" timestamp="1597929016273">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593797761007" />
-    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1593797761007">
+    <state width="938" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597929016273" />
+    <state width="938" height="279" key="GridCell.Tab.0.center" timestamp="1597929016273">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593797761007" />
-    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1593797761007">
+    <state width="938" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597929016273" />
+    <state width="938" height="279" key="GridCell.Tab.0.left" timestamp="1597929016273">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593797761007" />
+    <state width="938" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597929016273" />
+    <state width="938" height="279" key="GridCell.Tab.0.right" timestamp="1597929016273">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597929016273" />
     <state width="1877" height="231" key="GridCell.Tab.1.bottom" timestamp="1591642723160">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -248,6 +259,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="339" y="124" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597919297323" />
+    <state x="68" y="97" width="1736" height="856" maximized="true" key="git4idea.log.GitShowExternalLogAction" timestamp="1597921937772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="68" y="97" width="1736" height="856" maximized="true" key="git4idea.log.GitShowExternalLogAction/0.0.1920.1040@0.0.1920.1040" timestamp="1597921937772" />
     <state width="600" height="428" key="javadoc.popup" timestamp="1591164626137">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

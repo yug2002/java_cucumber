@@ -18,6 +18,7 @@ public class Element implements Find {
     protected By by;
 
     public Element(By _by) {
+
         this.driver = DriverManager.getDriver();
         this.by = _by;
         this.element = getFluentWait(driver).until(new Function<WebDriver, WebElement>() {
